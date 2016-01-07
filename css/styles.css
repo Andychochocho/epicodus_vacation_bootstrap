@@ -1,0 +1,21 @@
+@media screen and (){
+  {
+
+  }
+}
+
+h2, p {
+  text-align: center;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 250px;
+}
+
+footer {
+  float: left;
+  margin-top: 80px;
+}
